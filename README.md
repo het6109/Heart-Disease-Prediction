@@ -78,7 +78,7 @@ curl -X POST -H "Content-Type: application/json" -d '{
 "ExerciseAngina": "N",
 "Oldpeak": 2.3,
 "ST_Slope": "Up"
-}' http://127.0.0.1:5000/predict
+}'
 
 
 ---
